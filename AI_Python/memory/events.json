@@ -1,0 +1,589 @@
+[
+  {
+    "time": "12:58:01",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 19
+  },
+  {
+    "time": "12:58:01",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 19
+  },
+  {
+    "time": "13:02:21",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 9
+  },
+  {
+    "time": "13:02:31",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 19
+  },
+  {
+    "time": "13:02:41",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 29
+  },
+  {
+    "time": "13:02:51",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 39
+  },
+  {
+    "time": "13:03:01",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 49
+  },
+  {
+    "time": "13:03:11",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 59
+  },
+  {
+    "time": "13:03:21",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 69
+  },
+  {
+    "time": "13:03:41",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 90
+  },
+  {
+    "time": "13:04:01",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 8
+  },
+  {
+    "time": "13:04:11",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 18
+  },
+  {
+    "time": "13:04:21",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "13:12:39",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 8
+  },
+  {
+    "time": "19:09:10",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:09:40",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:09:50",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 6
+  },
+  {
+    "time": "19:10:01",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 16
+  },
+  {
+    "time": "19:10:13",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 26
+  },
+  {
+    "time": "19:10:23",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 38
+  },
+  {
+    "time": "19:10:33",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 48
+  },
+  {
+    "time": "19:10:43",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 58
+  },
+  {
+    "time": "19:10:53",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 69
+  },
+  {
+    "time": "19:11:04",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 79
+  },
+  {
+    "time": "19:11:14",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:11:25",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 6
+  },
+  {
+    "time": "19:11:35",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 16
+  },
+  {
+    "time": "19:11:45",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 26
+  },
+  {
+    "time": "19:11:55",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 36
+  },
+  {
+    "time": "19:12:05",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 47
+  },
+  {
+    "time": "19:12:15",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 57
+  },
+  {
+    "time": "19:12:25",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 1
+  },
+  {
+    "time": "19:12:36",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 11
+  },
+  {
+    "time": "19:12:46",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 21
+  },
+  {
+    "time": "19:13:06",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 41
+  },
+  {
+    "time": "19:13:16",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 7
+  },
+  {
+    "time": "19:13:26",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 17
+  },
+  {
+    "time": "19:13:36",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 27
+  },
+  {
+    "time": "19:13:46",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 37
+  },
+  {
+    "time": "19:13:56",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 47
+  },
+  {
+    "time": "19:14:06",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 58
+  },
+  {
+    "time": "19:14:17",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 68
+  },
+  {
+    "time": "19:14:37",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 88
+  },
+  {
+    "time": "19:14:47",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 98
+  },
+  {
+    "time": "19:14:57",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 108
+  },
+  {
+    "time": "19:15:07",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 118
+  },
+  {
+    "time": "19:15:09",
+    "status": "Ami nói: Dạ, nha nội, đứng dậy đi nhen!",
+    "emotion": "Happy",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:15:17",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 128
+  },
+  {
+    "time": "19:15:27",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 138
+  },
+  {
+    "time": "19:15:37",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 148
+  },
+  {
+    "time": "19:15:39",
+    "status": "Ami nói: Dạ, nha nội, đứng dậy đi nhen!",
+    "emotion": "Happy",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:15:47",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 158
+  },
+  {
+    "time": "19:15:57",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 168
+  },
+  {
+    "time": "19:16:07",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 178
+  },
+  {
+    "time": "19:16:09",
+    "status": "Ami nói: Dạ, nha nội, đứng dậy đi nhen!",
+    "emotion": "Happy",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:16:27",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 7
+  },
+  {
+    "time": "19:16:37",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 17
+  },
+  {
+    "time": "19:16:48",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 27
+  },
+  {
+    "time": "19:17:08",
+    "status": "⚠️ NGỒI KHOM LƯNG",
+    "emotion": "neutral",
+    "sitting_seconds": 47
+  },
+  {
+    "time": "19:17:18",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 57
+  },
+  {
+    "time": "19:17:28",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 67
+  },
+  {
+    "time": "19:17:38",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 78
+  },
+  {
+    "time": "19:17:48",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 88
+  },
+  {
+    "time": "19:17:58",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 98
+  },
+  {
+    "time": "19:18:08",
+    "status": "⚠️ NỘI NGỒI QUÁ LÂU",
+    "emotion": "neutral",
+    "sitting_seconds": 108
+  },
+  {
+    "time": "19:18:52",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:19:22",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:19:32",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:19:42",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:19:52",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:20:02",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:20:12",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:20:42",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:20:52",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:21:02",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:21:22",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 3
+  },
+  {
+    "time": "19:21:32",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 13
+  },
+  {
+    "time": "19:21:43",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:21:53",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:22:03",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:22:13",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:22:33",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 32
+  },
+  {
+    "time": "19:22:53",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:23:04",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:23:24",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:23:34",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:23:44",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:23:54",
+    "status": "✅ TRẠNG THÁI TỐT",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:24:22",
+    "status": "Ami nói: Nha nội, cẩn thận té ngã nhen!",
+    "emotion": "Happy",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:24:24",
+    "status": "Không thấy người",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:24:34",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 8
+  },
+  {
+    "time": "19:24:54",
+    "status": "✅ TRẠNG THÁI TỐT",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
+  {
+    "time": "19:25:15",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 4
+  },
+  {
+    "time": "19:25:25",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 14
+  },
+  {
+    "time": "19:25:35",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 24
+  },
+  {
+    "time": "19:25:55",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 45
+  },
+  {
+    "time": "19:26:15",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 3
+  },
+  {
+    "time": "19:26:25",
+    "status": "🧘 ĐANG NGỒI NGHỈ",
+    "emotion": "neutral",
+    "sitting_seconds": 0
+  },
